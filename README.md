@@ -24,11 +24,11 @@ Min. Printer Size: 180x180x200mm\
 Slicing Software: Cura
 
 Reinforcements:\
-Skylon Bruxx Arrow Shaft (Spline 500) (https://www.bogenladen-leipzig.de/Skylon-Bruxx-23-ID80-Schaft-500)\
-Carbon Rod 2x 0.5mmx1m (https://shop1.r-g.de/art/600050)\
-Carbon Strip 6x 0.4x3mmx1m (https://shop1.r-g.de/art/610305)\
-Carbon Tube 5/4mm (https://shop1.r-g.de/art/604070)\
-Carbon Tube 3/2mm (https://shop1.r-g.de/art/604070)
+Skylon Bruxx Arrow Shaft (Spline 500) (https://www.bogenladen-leipzig.de/Skylon-Bruxx-23-ID80-Schaft-500)<br>
+Carbon Rod 2x 0.5mmx1m (https://shop1.r-g.de/art/600050)<br>
+Carbon Strip 6x 0.4x3mmx1m (https://shop1.r-g.de/art/610305)<br>
+Carbon Tube 5/4mm (https://shop1.r-g.de/art/604070)<br>
+Carbon Tube 3/2mm (https://shop1.r-g.de/art/604070)<br>
 
 
 
